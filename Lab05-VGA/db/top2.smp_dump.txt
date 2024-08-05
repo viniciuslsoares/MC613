@@ -1,0 +1,7 @@
+
+State Machine - |top2|last_button
+Name last_button.11 last_button.10 last_button.01 last_button.00 
+last_button.00 0 0 0 0 
+last_button.01 0 0 1 1 
+last_button.10 0 1 0 1 
+last_button.11 1 0 0 1 

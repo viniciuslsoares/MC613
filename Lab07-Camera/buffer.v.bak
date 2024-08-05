@@ -1,0 +1,16 @@
+module buffer(
+	input write_enable,
+	input data_in,
+	input [10:0] data_in_x_addr,
+	input [10:0] data_in_y_addr,
+	
+	output data_out,
+	input [10:0] data_out_x_addr,
+	input [10:0] data_out_y_addr,
+);
+
+	if (write_enable)
+		
+
+
+endmodule

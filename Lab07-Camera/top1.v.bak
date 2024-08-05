@@ -1,0 +1,7 @@
+module top1(
+	input CLOCK_50,
+	input reset
+);
+
+wire CLOCK_24
+endmodule

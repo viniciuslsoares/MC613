@@ -1,0 +1,6 @@
+VCD info: dumpfile paridade.vcd opened for output.
+entrada = 00000000, p = 0, n = 1000, injeta_erro = 0, saida = 000000000, erro = 0
+entrada = 00000000, p = 0, n = 1000, injeta_erro = 1, saida = 100000000, erro = 1
+entrada = 00000000, p = 0, n = 1000, injeta_erro = 0, saida = 000000000, erro = 0
+entrada = 00000001, p = 1, n = 1000, injeta_erro = 1, saida = 000000001, erro = 1
+entrada = 00000001, p = 1, n = 1000, injeta_erro = 0, saida = 100000001, erro = 0

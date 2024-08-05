@@ -1,0 +1,7 @@
+WARNING: tb_hamming.v:31: $readmemb(teste.txt): Too many words in the file for the requested range [0:4].
+VCD info: dumpfile hamming.vcd opened for output.
+entrada=00000000000, saida=00000000000
+entrada=00000000000, saida=00000000000
+entrada=00000000000, saida=00000000000
+entrada=01000000000, saida=01000000000
+entrada=01000000000, saida=01000000000
